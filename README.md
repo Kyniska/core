@@ -13,7 +13,7 @@ https://solidity.readthedocs.io/en/develop/contracts.html#visibility-and-getters
 For reconciliation, certain types of accountability (which would translate to the String data-type) require content to remain private between individuals involved.  
 Thus, for the moment, as alternatives like Hyperledger’s Fabric project continue to evolve, the aim is to define the framework and instructions for any language, until a natural fit becomes clear.
 
-# Credibility
+# Validity
 
 Some may question the authenticity and validity of the sources and claims relating to this effort.  
 
