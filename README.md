@@ -7,9 +7,10 @@ Core aims to translate the organizing principles (laws) found in the Constitutio
 
 Wishing to honor the purity of the original blockchain network (supporting Bitcoin) the hope was to use the Ethereum network.  However, the Solidity programming language does not afford types of privacy vital to this democratic structure – especially relating to accountability:
 
-https://solidity.readthedocs.io/en/develop/contracts.html#visibility-and-getters
-
 “Everything that is inside a contract is visible to all external observers. Making something private only prevents other contracts from accessing and modifying the information, but it will still be visible to the whole world outside of the blockchain.”
+
+
+https://solidity.readthedocs.io/en/develop/contracts.html#visibility-and-getters
 
 For reconciliation, certain types of accountability (which would translate to the String data-type) require content to remain private between individuals involved.  
 Thus, for the moment, as alternatives like Hyperledger’s Fabric project continue to evolve, the aim is to define the framework and instructions for any language, until a natural fit becomes clear.
