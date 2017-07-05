@@ -17,4 +17,4 @@ Thus, for the moment, as alternatives like Hyperledger’s Fabric project contin
 
 Some may question the authenticity and validity of the sources and claims relating to this effort.  
 
-While we have come to our own conclusions for our own reasons, we invite all to consider not the validity of the sources or claims, but the principles proposed and their organization.  How well are these principles likely to support and nourish any group of people seeking an approach to governance that satisfies and unifies? 
+While we have come to our own conclusions for our own reasons, we invite all to consider not the validity of the sources or claims, but the principles proposed and their organization.  How well is this constellation of principles likely to support and nourish any group of people seeking an approach to governance that satisfies and unifies? 
