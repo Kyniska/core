@@ -5,11 +5,11 @@ Core aims to translate the organizing principles (laws) from the Constitution of
 
 # Sources (incomplete)
 
+http://www.onondaganation.org/government/
+
 https://www.amazon.com/Forgotten-Founders-American-Indian-Democracy/dp/0916782905
 
 http://www.nytimes.com/1987/06/28/us/iroquois-constitution-a-forerunner-to-colonists-democratic-principles.html
-
-http://www.onondaganation.org/government/
 
 # Some defining differences:
 
