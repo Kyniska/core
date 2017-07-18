@@ -6,7 +6,7 @@ Core aims to translate the organizing principles (laws) from the Constitution of
 # Some defining differences:
 
 - Democracy is materiarchal
-- Women select candidates for leadership and have ability to remove
+- Eldest women select candidates for leadership and have ability to remove
 - Good leaders hold position for life
 - No leader or law accepted without unanimous consent (mostly true)
 
