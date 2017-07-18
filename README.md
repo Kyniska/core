@@ -1,7 +1,7 @@
 Core: A Version of Democracy
 ====
 
-Core aims to translate the organizing principles (laws) from the Constitution of the Haudenosaunee to Blockchain voting-by-contract form.
+Core aims to translate the organizing principles (laws) from the Constitution of the Haudenosaunee to operational Blockchain  form.
 
 # Some defining differences:
 
