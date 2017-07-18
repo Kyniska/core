@@ -45,7 +45,7 @@ Data types in use:
 
 Addresses: representing presence and identity of individuals and perhaps groups
 
-Strings: representing dominant loyalties of individuals (bloodline, place of birth, native language, etc), feedback for accountability (leader is guilty of...)
+Strings: representing dominant loyalties of individuals (bloodline, country-of-origin, native language, etc), feedback for accountability (leader is guilty of...)
 
 Bools: receipt of feedback, presence of witness during sharing of feedback
 
