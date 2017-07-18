@@ -32,7 +32,7 @@ Wishing to honor the purity of the original blockchain network (supporting Bitco
 
 https://solidity.readthedocs.io/en/develop/contracts.html#visibility-and-getters
 
-For reconciliation, certain types of accountability (which would translate to the String data-type) require feedback to remain private between individuals involved.  
+For preserving, or returning to, equilibrium among members, certain types of accountability require feedback between individuals involved to remain private.  
 Thus, for the moment, as alternatives like Hyperledger’s Fabric project continue to evolve, the aim is to define the framework and instructions for any language, until a natural fit becomes clear.
 
 # Translating to code
