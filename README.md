@@ -3,7 +3,7 @@ Core: A Version of Democracy
 
 Core aims to translate the organizing principles (laws) from the Constitution of the Haudenosaunee to operational Blockchain  form.
 
-# Sources (some)
+# Sources (incomplete)
 
 https://www.amazon.com/Forgotten-Founders-American-Indian-Democracy/dp/0916782905
 
