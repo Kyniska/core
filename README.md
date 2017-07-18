@@ -41,7 +41,7 @@ Thus, for the moment, as alternatives like Hyperledger’s Fabric project contin
 
 Reading so far suggests bloodlines/skin color/native language did not take precedence for acceptance (reference needed).  Any individual agreeing to follow the agreed-to laws was accepted into the community.  One challenge, this policy was applied in a context were face-to-face interaction was available - and thus able to authenticate and provide accountability.  Online, false identities are not only possible but widely used.  If accountability plays a vital role in this governmental structure, how to verify the authenticity of any address for inclusion? 
 
-Data types in use:
+Data-types in use:
 
 Addresses: representing presence and identity of individuals and perhaps groups
 
