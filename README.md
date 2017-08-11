@@ -50,9 +50,9 @@ Addresses: representing presence and identity of individuals and perhaps groups
 Strings: representing dominant loyalties of individuals (bloodline, country-of-origin, native language, etc), feedback for accountability (leader is guilty of...)
 
 Bools: 
--receipt of feedback
--presence of witness during sharing of feedback
--agreement to align with principles for organizing behavior (laws)
+- receipt of feedback
+- presence of witness during sharing of feedback
+- agreement to align with principles for organizing behavior (laws)
 
 Arrays: holding members of groups and characteristics referencing loyalities sequenced by dominance.
 
