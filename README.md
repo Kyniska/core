@@ -15,6 +15,7 @@ http://www.nytimes.com/1987/06/28/us/iroquois-constitution-a-forerunner-to-colon
 
 # Some defining differences:
 
+- Unity elevates decisions
 - Democracy is materiarchal
 - Eldest women select candidates for leadership and have ability to remove
 - Good leaders hold position for life
@@ -56,8 +57,19 @@ Bools:
 
 Arrays: holding members of groups and characteristics referencing loyalities sequenced by dominance.
 
-# Membership Qualifications
+# Membership Qualifications (Bool)
 
-- 
+* how to verify address connects to a person who can be held accountable remains an unknown *
+
+- No religion as modern civilization defined it acknowledged
+- All skins colors accepted.  Heritage does not disqualify
+- Agreement that personal behavior will honor organizing principles accepted by community (laws)
+
+# Loyalties to consider for group placement (Strings)
+
+- family-of-origin
+- place-of-origin
+- Native language
+- additional influences likely to fuel feelings of guilt or innocence (an ex-lover or murdered parent)
 
 
