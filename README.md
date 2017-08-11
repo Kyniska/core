@@ -39,8 +39,6 @@ Thus, for the moment, as alternatives like Hyperledger’s Fabric project contin
 
 # Translating to code
 
-/* 
-
 Reading so far suggests bloodlines/skin color/native language did not take precedence for acceptance (reference needed).  Any individual agreeing to follow the agreed-to laws was accepted into the community.  One challenge, this policy was applied in a context were face-to-face interaction was available - and thus able to authenticate and provide accountability.  Online, false identities are not only possible but widely used.  If accountability plays a vital role in this governmental structure, how to verify the authenticity of any address for inclusion? 
 
 Privacy needs: addresses assigned to roles have permissions to view strings; relating to loyalities and the potential for factions to emerge, if members are assigned to more than one group (as a preventative mechanism, members can only see members of their group? separate arrays for separate groups?)
@@ -56,12 +54,10 @@ Bools:
 -presence of witness during sharing of feedback
 -agreement to align with principles for organizing behavior (laws)
 
-Arrays: holding members of groups and characteristics referencing dominant loyalities
+Arrays: holding members of groups and characteristics referencing loyalities sequenced by dominance.
 
 # Membership Qualifications
 
-
-
-*/
+- 
 
 
