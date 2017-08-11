@@ -1,7 +1,9 @@
 Core: A Version of Democracy
 ====
 
-Core aims to translate the organizing principles (laws) from the Constitution of the Haudenosaunee to operational form using Blockchain technology.
+"In this constitution of the Five Nations are found practically all of the safeguards which have been raised in historic parliments to protect home affairs from centralized authority." - Arthur Pound, Johnson of the Mohawks
+
+Core aims to translate the organizing principles (laws) from the Constitution of the 6 Nations (or Haudenosaunee) to operational form using Blockchain technology.
 
 # Sources (incomplete)
 
@@ -49,9 +51,16 @@ Addresses: representing presence and identity of individuals and perhaps groups
 
 Strings: representing dominant loyalties of individuals (bloodline, country-of-origin, native language, etc), feedback for accountability (leader is guilty of...)
 
-Bools: receipt of feedback, presence of witness during sharing of feedback
+Bools: 
+-receipt of feedback
+-presence of witness during sharing of feedback
+-agreement to align with principles for organizing behavior (laws)
 
 Arrays: holding members of groups and characteristics referencing dominant loyalities
+
+# Membership Qualifications
+
+
 
 */
 
