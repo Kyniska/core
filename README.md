@@ -3,7 +3,7 @@ Core: A Version of Democracy
 
 "In this constitution of the Five Nations are found practically all of the safeguards which have been raised in historic parliments to protect home affairs from centralized authority." - Arthur Pound, Johnson of the Mohawks
 
-Core aims to translate the organizing principles (laws) from the Constitution of the 6 Nations (or Haudenosaunee) to operational form using Blockchain technology.
+Core aims to translate the organizing principles (laws) from the Constitution of the now 6 Nations (or Haudenosaunee) to operational form using Blockchain technology.
 
 # Sources (incomplete)
 
