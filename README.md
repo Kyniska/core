@@ -38,6 +38,8 @@ https://solidity.readthedocs.io/en/develop/contracts.html#visibility-and-getters
 For preserving, or returning to, equilibrium among members, certain types of accountability require feedback between individuals involved to remain private.  
 Thus, for the moment, as alternatives like Hyperledger’s Fabric project continue to evolve, the aim is to define the framework and instructions for any language, until a natural fit becomes clear.
 
+- Potentials: Komodo and Fabric
+
 # Translating to code
 
 Reading so far suggests bloodlines/skin color/native language did not take precedence for acceptance (reference needed).  Any individual agreeing to follow the agreed-to laws was accepted into the community.  One challenge, this policy was applied in a context were face-to-face interaction was available - and thus able to authenticate and provide accountability.  Online, false identities are not only possible but widely used.  If accountability plays a vital role in this governmental structure, how to verify the authenticity of any address for inclusion? 
