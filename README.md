@@ -15,7 +15,7 @@ http://www.nytimes.com/1987/06/28/us/iroquois-constitution-a-forerunner-to-colon
 
 # Some defining differences:
 
-- Unity elevates decisions
+- Unity elevates proposals
 - Democracy is materiarchal
 - Eldest women select candidates for leadership and have ability to remove
 - Good leaders hold position for life
