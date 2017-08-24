@@ -65,7 +65,7 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 
 - No religion as modern civilization defined it acknowledged
 - All skins colors accepted.  Heritage does not disqualify
-- Agreement that personal behavior will honor organizing principles accepted by community (laws)
+- Agreement that personal behavior will honor (align with) organizing principles (laws) accepted by community 
 
 # Loyalties to consider for group placement (Strings)
 
