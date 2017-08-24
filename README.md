@@ -76,16 +76,18 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 
 # Voting procedure
 
-- all proposals for new laws or leaders must pass through circles of loyalties.
+- circles of loyalties: all proposals for new laws or leaders must pass through these circles
 - all members of circle must accept for proposal to move forward
-- if dissent occurs, opportunity for refinement/revision available
-- perspective provided (why it is not accepted, what change is requested/prefered or no modification is possible)
-- proposal returned to originating circle
-
 - arrays of addresses: addresses / string (proposed law or name of selected)
 - all agree: boolean
 - proposal forwarded to next circle
-
 - dissent: boolean / string
+- if dissent occurs, opportunity for refinement/revision available
+- perspective provided (why it is not accepted, what change is requested/prefered or no modification is possible) (String)
+- proposal returned to originating circle (string from one address to another)
+- originating circle can ask for clarification
 
+# Transaction costs
+
+- Community fund for addresses to pull from? 
 
