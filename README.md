@@ -74,7 +74,7 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 - Native language
 - additional influences likely to fuel feelings of guilt or innocence (an ex-lover or murdered parent)
 
-# Voting procedure
+# Voting procedure (Addresses / Bools / Strings)
 
 - circles of loyalties: all proposals for new laws or leaders must pass through these circles
 - all members of circle must accept for proposal to move forward
@@ -87,7 +87,7 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 - proposal returned to originating circle (string from one address to another)
 - originating circle can ask for clarification
 
-# Transaction costs
+# Transaction costs (Addresses)
 
 - Community fund for addresses to pull from? 
 
