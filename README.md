@@ -15,12 +15,11 @@ http://www.nytimes.com/1987/06/28/us/iroquois-constitution-a-forerunner-to-colon
 
 # Some defining differences:
 
-- Unity elevates proposals
-- Democracy is materiarchal
+- Unity elevates proposals (No leader or law accepted without unanimous consent of the people (mostly true))
 - The people retain accountability
 - Eldest women select candidates for leadership and have ability to remove
 - Good leaders hold position for life
-- No leader or law accepted without unanimous consent of the people (mostly true)
+- Democracy is materiarchal
 
 # Validity
 
@@ -74,5 +73,19 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 - place-of-origin
 - Native language
 - additional influences likely to fuel feelings of guilt or innocence (an ex-lover or murdered parent)
+
+# Voting procedure
+
+- all proposals for new laws or leaders must pass through circles of loyalties.
+- all members of circle must accept for proposal to move forward
+- if dissent occurs, opportunity for refinement/revision available
+- perspective provided (why it is not accepted, what change is requested/prefered or no modification is possible)
+- proposal returned to originating circle
+
+- arrays of addresses: addresses / string (proposed law or name of selected)
+- all agree: boolean
+- proposal forwarded to next circle
+
+- dissent: boolean / string
 
 
