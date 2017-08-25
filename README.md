@@ -76,7 +76,7 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 
 # Voting procedure (Addresses / Bools / Strings)
 
-- circles of loyalties: all proposals for new laws or leaders must pass through these circles
+- constellations of loyalties: all proposals for new laws or leaders must pass through and receive unified agreements from all existing constellations
 - all members of circle must accept for proposal to move forward
 - arrays of addresses: addresses / string (proposed law or name of selected)
 - all agree: boolean
@@ -86,6 +86,10 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 - perspective provided (why it is not accepted, what change is requested/prefered or no modification is possible) (String)
 - proposal returned to originating circle (string from one address to another)
 - originating circle can ask for clarification
+
+# Accountability
+
+- 
 
 # Transaction costs (Addresses)
 
