@@ -77,7 +77,7 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 # Composition
 
 - Each member of the Six Nations belonged to two constellations as a preventative against rivalries
-- We recognize the rivalries that presently exist, whether emerging in this life or inherited from the past, will not likely be unraveled  
+- We recognize existng rivalries, whether emerging in this life or inherited from the past, may require more in structure and procedure to prevent interference.
 
 # Voting procedure (Addresses / Bools / Strings)
 
