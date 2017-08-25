@@ -74,9 +74,14 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 - Native language
 - additional influences likely to fuel feelings of guilt or innocence (an ex-lover or murdered parent)
 
+# Composition
+
+- Each member of the Six Nations belonged to two constellations as a preventative against rivalries
+- We recognize the rivalries that presently exist, whether emerging in this life or inherited from the past, will not likely be unraveled  
+
 # Voting procedure (Addresses / Bools / Strings)
 
-- constellations of loyalties: all proposals for new laws or leaders must pass through and receive unified agreements from all existing constellations
+- constellations of loyalties: all proposals for new laws or leaders must receive unified agreement from each constellation network
 - all members of circle must accept for proposal to move forward
 - arrays of addresses: addresses / string (proposed law or name of selected)
 - all agree: boolean
@@ -87,9 +92,13 @@ Arrays: holding members of groups and characteristics referencing loyalities seq
 - proposal returned to originating circle (string from one address to another)
 - originating circle can ask for clarification
 
-# Accountability
+# Accountability (Addresses / Strings / Bools)
 
-- 
+- For primary and secondary leaders:
+- Complaints from any citizen relating to the chosen leader are received by the Grandmother who nominated the leader
+- Three opportunities are provided for the Grandmother to share the complaint with the leader, and for the leader to adjust his behavior to re-align with law.
+- For each opportunity, a different, specified witness will witness.
+- Should the three opportunities fail, the Grandmother holds responsibility for removing the title from the man.
 
 # Transaction costs (Addresses)
 
